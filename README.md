@@ -1,0 +1,1 @@
+This is a nice exercie to improve my skills in web development. Thanks to the Odin P Project I'm becoming a star programmer. From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
